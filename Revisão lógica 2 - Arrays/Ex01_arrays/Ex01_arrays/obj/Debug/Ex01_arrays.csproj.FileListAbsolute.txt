@@ -1,0 +1,7 @@
+C:\Users\leona\Documents\2. Projeto Integrador ll\Aula 27-08\Ex01_arrays\Ex01_arrays\bin\Debug\Ex01_arrays.exe.config
+C:\Users\leona\Documents\2. Projeto Integrador ll\Aula 27-08\Ex01_arrays\Ex01_arrays\bin\Debug\Ex01_arrays.exe
+C:\Users\leona\Documents\2. Projeto Integrador ll\Aula 27-08\Ex01_arrays\Ex01_arrays\bin\Debug\Ex01_arrays.pdb
+C:\Users\leona\Documents\2. Projeto Integrador ll\Aula 27-08\Ex01_arrays\Ex01_arrays\obj\Debug\Ex01_arrays.csproj.AssemblyReference.cache
+C:\Users\leona\Documents\2. Projeto Integrador ll\Aula 27-08\Ex01_arrays\Ex01_arrays\obj\Debug\Ex01_arrays.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\2. Projeto Integrador ll\Aula 27-08\Ex01_arrays\Ex01_arrays\obj\Debug\Ex01_arrays.exe
+C:\Users\leona\Documents\2. Projeto Integrador ll\Aula 27-08\Ex01_arrays\Ex01_arrays\obj\Debug\Ex01_arrays.pdb

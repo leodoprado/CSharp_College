@@ -1,0 +1,7 @@
+C:\Users\leona\OneDrive\Documentos\Faculdade\2° Semestre\2. Projeto Integrador ll\Aula 27-08 - Revisão lógica 2 - Arrays\Ex06_arrays\Ex06_arrays\obj\Debug\Ex06_arrays.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\Faculdade\2° Semestre\2. Projeto Integrador ll\Aula 27-08 - Revisão lógica 2 - Arrays\Ex06_arrays\Ex06_arrays\obj\Debug\Ex06_arrays.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\Faculdade\2° Semestre\2. Projeto Integrador ll\Aula 27-08 - Revisão lógica 2 - Arrays\Ex06_arrays\Ex06_arrays\bin\Debug\Ex06_arrays.exe.config
+C:\Users\leona\OneDrive\Documentos\Faculdade\2° Semestre\2. Projeto Integrador ll\Aula 27-08 - Revisão lógica 2 - Arrays\Ex06_arrays\Ex06_arrays\bin\Debug\Ex06_arrays.exe
+C:\Users\leona\OneDrive\Documentos\Faculdade\2° Semestre\2. Projeto Integrador ll\Aula 27-08 - Revisão lógica 2 - Arrays\Ex06_arrays\Ex06_arrays\bin\Debug\Ex06_arrays.pdb
+C:\Users\leona\OneDrive\Documentos\Faculdade\2° Semestre\2. Projeto Integrador ll\Aula 27-08 - Revisão lógica 2 - Arrays\Ex06_arrays\Ex06_arrays\obj\Debug\Ex06_arrays.exe
+C:\Users\leona\OneDrive\Documentos\Faculdade\2° Semestre\2. Projeto Integrador ll\Aula 27-08 - Revisão lógica 2 - Arrays\Ex06_arrays\Ex06_arrays\obj\Debug\Ex06_arrays.pdb
